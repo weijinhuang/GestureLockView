@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LockPatternView">
+        <attr name="regularColor" format="color"/>
+        <attr name="errorColor" format="color"/>
+        <attr name="successColor" format="color"/>
+        <attr name="pathColor" format="color"/>
+        <attr name="aspect" format="string"/>
+        <attr name="dotSize" format="dimension"/>
+        <attr name="dotActivatedSize" format="dimension"/>
+        <attr name="pathWidth" format="dimension"/>
+        <attr name="inStealthMode" format="boolean"/>
+    </declare-styleable>
+</resources>
