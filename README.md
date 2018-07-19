@@ -1,2 +1,2 @@
 # GestureLockView
-手势密码控件，基于Android Lolipop 系统自带的手势密码控件源码，使用kotlin进行了重写。
+A gesture password view written with kotlin base on Android lolipop system open source LockPatternView 
